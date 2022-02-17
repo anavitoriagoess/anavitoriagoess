@@ -43,11 +43,11 @@
  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href = "https://anavitoriagoess.github.io/portfolio-anavitoria/">
-    <img src="https://user-images.githubusercontent.com/97069033/154587687-f837e327-757c-40b3-98d6-74b065a2c63f.png" height="40">
+    <img src="https://user-images.githubusercontent.com/97069033/154587687-f837e327-757c-40b3-98d6-74b065a2c63f.png" target="_blank" height="40">
  </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href = "mailto:anavitoria.goess@gmail.com">
-    <img src="https://user-images.githubusercontent.com/97069033/154587311-a7789f6a-7c15-4efd-9968-887bf8cdf09c.png" height="40">
+    <img src="https://user-images.githubusercontent.com/97069033/154587311-a7789f6a-7c15-4efd-9968-887bf8cdf09c.png" target="_blank" height="40">
  </a>
  
  </div>
