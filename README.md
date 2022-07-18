@@ -9,7 +9,7 @@
 <p align="center">
   Tenho 21 anos, sou voluntária e <b>AMO</b> pizza!!! </br>
   Sou estudante de Analise e Desenvolvimento de Sistemas na Faculdade Impacta & </br>
-  <b>Desenvolvedora Front-End na 5by5</b>
+  <b>Desenvolvedora Front-End</b>
  </p>
 
 ## Interesses ⚡
