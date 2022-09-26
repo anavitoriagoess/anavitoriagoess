@@ -1,13 +1,8 @@
 <span align="center">
-  <h2> Olá! 👋 Eu sou a: </h2>
+  <h2> Olá! 👋 Eu sou a Ana Vitoria: </h2>
 </span>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/97069033/154582161-291696e3-adbd-470c-864c-65fa1eb1d6b3.png"/>
- </div>
-
 <p align="center">
-  Tenho 22 anos, sou voluntária e <b>AMO</b> pizza!!! </br>
   Sou estudante de Analise e Desenvolvimento de Sistemas na Faculdade Impacta & </br>
   <b>Desenvolvedora Front-End</b>
  </p>
