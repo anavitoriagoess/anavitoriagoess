@@ -3,7 +3,7 @@
 </span>
 
 <p align="center">
-  Sou estudante de Analise e Desenvolvimento de Sistemas na Faculdade Impacta & </br>
+  Formada em Análise e Desenvolvimento de Sistemas na Faculdade Impacta & </br>
   <b>Desenvolvedora Front-End</b>
  </p>
 
